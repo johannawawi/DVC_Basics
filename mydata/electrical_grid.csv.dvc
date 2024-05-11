@@ -1,0 +1,5 @@
+outs:
+- md5: 92c3aac1a080f1039fa996db097b2441
+  size: 1549475
+  hash: md5
+  path: electrical_grid.csv
